@@ -1,5 +1,5 @@
 # 👋 Hi There! 
-## Meu nome é [Edson Berg]
+## Meu nome é Edson Berg
 
 ### 🚀 Tecnologias que uso:
 <div style="display: inline_block"><br>
