@@ -12,11 +12,13 @@
    
 </div>
 
+### 📈 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+
 ### Linguagens mais usadas
 
-<div>
-  ![Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
 
 <div> 
   <a href="https://www.instagram.com/edsonberg44/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
